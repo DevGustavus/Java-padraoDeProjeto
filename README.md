@@ -26,9 +26,6 @@ This project from the Santander Bootcamp | Fullstack Developer at DIO aims to de
 - Polymorphism: Explored and implemented polymorphic behaviors, allowing for more dynamic and versatile interactions between different components of the system.
 - Inheritance Proficiency: Enhanced proficiency in utilizing inheritance, leveraging its benefits for code reuse and building upon existing class functionalities.
 
-## 🧑‍🎓 Authors
-- <a href="https://github.com/DevGustavus"> Gustavo Machado Pontes - DevGustavus </a>
-
 ## 👽 How to clone this project
 
 ````bash
